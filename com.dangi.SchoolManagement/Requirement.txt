@@ -1,0 +1,26 @@
+Create "School Management System", their financial structure.
+Application about "Student ,Teacher and then the funds" only.
+
+keep track of students fees
+fees already paid by student
+
+keep track of teacher Salary
+
+School contains : 
+teacher 
+student
+Total money earned (student fess)
+Total money spend (teacher fees)
+
+
+// Teacher contains
+id,
+name,
+salary
+
+//Student contains
+id,
+name,
+class,
+fees paid,
+fees total
